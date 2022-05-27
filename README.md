@@ -9,18 +9,18 @@
 
 Visit my website! (            )
 
-### About me:  
+## About me:  
 
 Reach me at mdds.2017@gmail.com or send me a message on LinkedIn  
 
-### Languages and tools:  
+## Languages and tools:  
 
-### Highlighted projects:
+## Highlighted projects:
 
-### Stats:  
+## Stats:  
 
-### Contact me at:
-mdds.2017@gmail.com
+## Contact me at:
+mdds.2017@gmail.com  
 Send me a message on LinkedIn  
 
 <!--
