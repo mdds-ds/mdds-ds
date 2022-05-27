@@ -1,11 +1,11 @@
 <h1 align="center">
-    Hi there! I'm Matias (He/Him) 👋
+    Hi there! I'm Matias :argentina: (He/Him) 👋
 </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif" width="600" height="200"/>
 </p>
 
-<h3 align="center"> Data Scientist | Licenciatura en Ciencias de la Computación + Licenciatura en Ciencias de Datos (FCEN - Universidad de Buenos Aires) | From Argentina to the world :argentina: </h3>
+<h3 align="center"> Data Scientist | Licenciatura en Ciencias de la Computación + Licenciatura en Ciencias de Datos (FCEN - Universidad de Buenos Aires) </h3>
 <!--
 **mdds-ds/mdds-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
