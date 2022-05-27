@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif)
+![Alt Text](https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif | 400x250)
 
 # Hi there! I'm Matias 👋
 
