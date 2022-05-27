@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif" width="500" height="250"/>
 </p>
 
-<p align="center">
-    # Hi there! I'm Matias (He/Him) 👋
-</p>
+<h1 align="center">
+    Hi there! I'm Matias (He/Him) 👋
+</h1>
 
 <!--
 **mdds-ds/mdds-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
