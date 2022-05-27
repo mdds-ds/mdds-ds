@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif" width="400" height="250"/>
+<img src="https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif" width="500" height="250"/>
 
 # Hi there! I'm Matias 👋
 
