@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/9JJtjLliEF5N68yf3e/giphy.gif" width="600" height="200"/>
 </p>
 
+### Data Scientist and Developer in progress | From Argentina to the world :argentina:
 <!--
 **mdds-ds/mdds-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
