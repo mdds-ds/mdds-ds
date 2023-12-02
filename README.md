@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
     Hi there! I'm Matias (He/Him) 👋 :argentina:
 </h1>
@@ -22,6 +23,7 @@ Reach me at mdds.2017@gmail.com or send me a message on LinkedIn
 ## Contact me at:
 mdds.2017@gmail.com  
 Send me a message on LinkedIn  
+-->
 
 <!--
 **mdds-ds/mdds-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
